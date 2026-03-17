@@ -1,0 +1,8 @@
+-xc
+-std=c17
+-Wall
+-Wextra
+-Iinclude
+-I/usr/local/include
+-I/usr/local/include/SDL2
+
